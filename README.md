@@ -7,10 +7,4 @@ Open instruction set architecture (ISA)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-HPC KERNAL PILOT 
-
--So i desgined an Dynamic framework, which basically allows you perform high performance computation through dynammic kernal selection and Execution.
-
-Majorly most of the researchers face issue inorder to benchmark their operation.. or compare which one is vital or plays a good role..
-The framework allows developers and researchers to benchmark and experiment with various computation kernels CPU, GPU-simulated, and SIMD using OpenMP..
-For now i have limited upto Matrix Multiplication, In the future, i will be pushing for major operations like Image processing !
+![image](https://github.com/user-attachments/assets/85a714a2-69f8-4cac-9a55-363ef1389f0c)
