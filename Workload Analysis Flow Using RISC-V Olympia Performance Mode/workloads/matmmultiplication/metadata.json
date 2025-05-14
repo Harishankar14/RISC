@@ -1,0 +1,8 @@
+{
+  "workload": "matmul",
+  "type": "custom",
+  "compiler": "riscv64-linux-gnu-gcc",
+  "flags": "-O2 -static",
+  "binary": "matmul.elf",
+  "source": "custom_matmul.c"
+}
