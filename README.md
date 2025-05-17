@@ -11,3 +11,8 @@ Open instruction set architecture (ISA)
 
 
 ![image](https://github.com/user-attachments/assets/976cb893-81a1-448b-b1e0-45edf8420ab2)
+
+![image](https://github.com/user-attachments/assets/1c607bca-3b9e-4fb6-9ca7-9e63ea9bd53e)
+
+
+![image](https://github.com/user-attachments/assets/2203e87f-2e14-4157-b530-1080c5ebcf94)
